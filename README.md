@@ -20,5 +20,6 @@ git clone https://github.com/mcabie3098/Medbox_AI.git
 ```
 #### Then run the python file
 ```
+cd Medbox_AI
 python medbox_ai.py
 ```

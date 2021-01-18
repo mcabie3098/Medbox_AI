@@ -24,4 +24,3 @@ git clone https://github.com/mcabie3098/Medbox_AI.git
 cd Medbox_AI
 python medbox_ai.py
 ```
-Enjoy :)

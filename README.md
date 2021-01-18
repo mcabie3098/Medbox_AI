@@ -1,4 +1,4 @@
-# Medbox_AI A Doctors Prescription Reader
+# Medbox AI - A Doctors Prescription Reader
 
 #### Open Anaconda Prompt and install this python packages 
 ```
@@ -24,3 +24,5 @@ git clone https://github.com/mcabie3098/Medbox_AI.git
 cd Medbox_AI
 python medbox_ai.py
 ```
+
+#### Project Design. Special thanks to my group named "Front LinerZ"

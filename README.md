@@ -1,8 +1,9 @@
 # Medbox_AI A Doctors Prescription Reader
 
-#### Open Anaconda Prompt and install this tflite packages 
+#### Open Anaconda Prompt and install this python packages 
 ```
 conda create -n tflite pip python=3.5
+conda activate tflite
 python -m pip install --upgrade pip
 pip install numpy
 pip install scipy
@@ -23,3 +24,4 @@ git clone https://github.com/mcabie3098/Medbox_AI.git
 cd Medbox_AI
 python medbox_ai.py
 ```
+Enjoy :)
